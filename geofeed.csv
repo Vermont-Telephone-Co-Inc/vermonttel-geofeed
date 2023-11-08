@@ -1,3 +1,4 @@
+# General Blocks
 66.220.224.0/24,US,US-VT,Grafton,05146
 66.220.225.0/24,US,US-VT,Mt Holly,
 66.220.226.0/25,US,US-VT,Chester,05143
@@ -303,3 +304,5 @@
 2607:ffc8:4000::/48,US,US-NH,Lebanon,03756
 2607:ffc8:8000::/34,US,US-VT,,
 2607:ffc8:c000::/34,US,US-VT,,
+# Specific Blocks
+66.220.245.156/32,US,US-VT,Grafton,05146
